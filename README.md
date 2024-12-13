@@ -19,14 +19,12 @@ To process the default image examples, run the following command. The pre-traine
 ```bash
 bash scripts/inference.sh
 ```
+## Overall Pipeline
+### Overview
+<img src="src/main_pipeline.jpg" alt="alt text" width="800">
 
-<div style="text-align: center;">
-  <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat2" style="height: 200px; width: auto;">
-  <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat3" style="height: 200px; width: auto;">
-  <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat3" style="height: 200px; width: auto;">
-  <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat3" style="height: 200px; width: auto;">
-  <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat3" style="height: 200px; width: auto;">
-</div>
+### Textual Contrastive Loss
+<img src="src/manifold.png" alt="alt text" width="800">
 
 
 ## 🙏 Acknowledgments
