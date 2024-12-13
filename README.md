@@ -1,3 +1,4 @@
+![cat](https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg)
 # DirectIR
 
 ## Environment Setup
