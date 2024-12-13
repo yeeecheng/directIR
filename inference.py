@@ -101,10 +101,10 @@ class CFGDenoiser(nn.Module):
             # 1. Transform latent (z) to image
             x_pred = self.inner_model.inner_model.differentiable_decode_first_stage(z).requires_grad_(True)
             # save image
-            pixel_img = torch.clamp((x_pred + 1.0) / 2.0, min=0.0, max=1.0)
-            pixel_img = 255.0 * rearrange(pixel_img, "1 c h w -> h w c")
-            original_image = Image.fromarray(pixel_img.type(torch.uint8).cpu().numpy())
-            original_image.save(os.path.join("./timestep", f"{t}.jpg"))
+            # pixel_img = torch.clamp((x_pred + 1.0) / 2.0, min=0.0, max=1.0)
+            # pixel_img = 255.0 * rearrange(pixel_img, "1 c h w -> h w c")
+            # original_image = Image.fromarray(pixel_img.type(torch.uint8).cpu().numpy())
+            # original_image.save(os.path.join("./timestep", f"{t}.jpg"))
             
             # 2. Encode image with CLIP image encoder
             resize = transforms.Resize((224, 224))
