@@ -20,13 +20,12 @@ To process the default image examples, run the following command. The pre-traine
 bash scripts/inference.sh
 ```
 
-<table>
-  <tr>
-    <td><img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat1" style="height: 200px; width: auto;"></td>
-    <td><img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat2" style="height: 200px; width: auto;"></td>
-    <td><img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat3" style="height: 200px; width: auto;"></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat1" style="height: 200px; width: auto;">
+  <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat2" style="height: 200px; width: auto;">
+  <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat3" style="height: 200px; width: auto;">
+</div>
+
 
 ## 🙏 Acknowledgments
 
