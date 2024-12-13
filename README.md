@@ -31,6 +31,75 @@ bash scripts/inference.sh
 ### Textual Contrastive Loss
 <img src="src/manifold.png" alt="alt text" width="800">
 
+## Experimental Results
+<table>
+  <tr>
+    <td></td>
+    <td align="center">
+      Degraded Image
+    </td>
+    <td align="center">
+      Ground truth
+    </td>
+    <td align="center">
+      PromptFix
+    </td>
+    <td align="center">
+      PromptFix w/ Ours
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="1" align="center">
+      <b>Low-Light</b>
+    </td>
+    <td align="center">
+      <img src="validation_results/low_light/degraded.png" alt="Degraded Image" width="200" height="150">
+    </td>
+    <td align="center">
+      <img src="validation_results/low_light/gt.png" alt="Ground truth" width="200" height="150">
+    </td>
+    <td align="center">
+      <img src="validation_results/low_light/baseline_result.jpg" alt="PromptFix" width="200" height="150">
+    </td>
+    <td align="center">
+      <img src="validation_results/low_light/our_result.jpg" alt="PromptFix w/ Ours" width="200" height="150">
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="1" align="center">
+      <b>Motion-Blur</b>
+    </td>
+    <td align="center">
+      <img src="validation_results/motion_blur/degraded.png" alt="Degraded Image" width="200" height="150">
+    </td>
+    <td align="center">
+      <img src="validation_results/motion_blur/gt.png" alt="Ground truth" width="200" height="150">
+    </td>
+    <td align="center">
+      <img src="validation_results/motion_blur/baseline_result.jpg" alt="PromptFix" width="200" height="150">
+    </td>
+    <td align="center">
+      <img src="validation_results/motion_blur/our_result.jpg" alt="PromptFix w/ Ours" width="200" height="150">
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="1" align="center">
+      <b>Snow</b>
+    </td>
+    <td align="center">
+      <img src="validation_results/snow/degraded.png" alt="Degraded Image" width="200" height="150">
+    </td>
+    <td align="center">
+      <img src="validation_results/snow/gt.png" alt="Ground truth" width="200" height="150">
+    </td>
+    <td align="center">
+      <img src="validation_results/snow/baseline_result.jpg" alt="PromptFix" width="200" height="150">
+    </td>
+    <td align="center">
+      <img src="validation_results/snow/our_result.jpg" alt="PromptFix w/ Ours" width="200" height="150">
+    </td>
+  </tr>
+</table>
 
 ## 🙏 Acknowledgments
 
