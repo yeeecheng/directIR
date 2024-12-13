@@ -1,4 +1,4 @@
-# DirectIR: Training-Free Enhancement for Diffusion-Based Image Restoration via Contrastive Guidance
+# 👆 DirectIR: Training-Free Enhancement for Diffusion-Based Image Restoration via Contrastive Guidance
 ***Image Processing 2024 Final Project***
 
 Group 5: Group-SEVEN
