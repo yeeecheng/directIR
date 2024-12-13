@@ -1,4 +1,4 @@
-![cat](https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg)
+<img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat" style="height: 200px; width: auto; display: block; margin: 0 auto;">
 # DirectIR
 
 ## Environment Setup
