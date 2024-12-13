@@ -1,7 +1,9 @@
 # 👆 DirectIR: Training-Free Enhancement for Diffusion-Based Image Restoration via Contrastive Guidance
 ***Image Processing 2024 Final Project***
-[Youtube DEMO LINK](https://www.youtube.com/watch?v=Y2kIq410dEI&t=330s)
+
 Group 5: Group-SEVEN
+
+[Youtube DEMO LINK](https://www.youtube.com/watch?v=Y2kIq410dEI&t=330s)
 
 ## Environment Setup
 
