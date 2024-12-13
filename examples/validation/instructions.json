@@ -1,0 +1,12 @@
+{
+    "color3.png": ["Enrich this photo with a myriad of colors.", "The black-and-white artwork depicts a detailed, traditional-style drawing of blooming peonies. The intricate shading highlights the delicate petals and large leaves, creating a sense of depth and elegance."],
+    "desnow1.jpg": ["Strip off snowflake of the photo.", "The drawback of the image is that it is blurry, which makes it difficult to discern the details of the scene. The blurry image shows a snowy landscape with trees and a house, but the lack of clarity prevents the viewer from fully appreciating the beauty of the snowfall and the surrounding environment."],
+    "cat.jpg": ["Enrich the image become colorful", "the image is so dark and not colorful."],
+    "color19.jpg": ["Inject a burst of color into this scene.", "The image features a dark black bird with a yellow beak and claws perched on a light gray wooden branch. The background is a pale blue with a diagonal shadow. Delicate white flowers blossom on thin branches, adding contrast to the scene."],
+    "dehazy4.jpg": ["Cleanse the photo of its hazy appearance.", "The image is slightly hazy, causing a reduction in contrast and detail. The image shows a birdcage hanging from a tree branch outdoors. A bird is perched inside the cage, and the surrounding environment includes trees, bushes, and a building in the background."],
+    "desnow2.jpg": ["Strip off snowflake of the photo.", "The image shows a person walking through a snow-covered forest, with tall trees and a snowy path leading into the distance. The snowflakes are gently falling, creating a serene and wintery atmosphere in the forest setting."],
+    "desnow3.jpg": ["Remove snow from the image.", "The image appears slightly overexposed in certain areas. The image shows a cityscape with tall residential buildings under a clear blue sky. Snow is falling heavily, creating a dynamic effect against the backdrop of the red-brick and white-colored buildings."],
+    "lowlight3.jpg": ["Upgrade the picture with light enhancement.", "The image is underexposed, making it difficult to read the text clearly. The image shows a sign titled 'Dumpster Rules.' The rules listed include instructions about proper disposal of trash, recycling regulations, prohibitions on toxic or flammable materials, and closing the dumpster after use."],
+    "inpaint2.jpg": ["Extract the boy from the image.", ""],
+    "inpaint8.jpg": ["Please conceal the man with tattoo.", ""]
+}
