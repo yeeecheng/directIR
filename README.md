@@ -1,4 +1,3 @@
-<img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat" style="height: 200px; width: auto; display: block; margin: 0 auto;">
 # DirectIR
 
 ## Environment Setup
@@ -20,6 +19,8 @@ To process the default image examples, run the following command. The pre-traine
 ```bash
 bash scripts/inference.sh
 ```
+
+<img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat" style="height: 200px; width: auto; display: block; margin: 0 auto;">
 
 ## 🙏 Acknowledgments
 
