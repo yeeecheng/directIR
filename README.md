@@ -26,6 +26,7 @@ bash scripts/inference.sh
   <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat3" style="height: 200px; width: auto;">
   <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat3" style="height: 200px; width: auto;">
   <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat3" style="height: 200px; width: auto;">
+  <img src="https://github.com/yeeecheng/directIR/blob/main/validation_results/cat.jpg" alt="cat3" style="height: 200px; width: auto;">
 </div>
 
 
